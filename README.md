@@ -8,10 +8,7 @@ Moreover, it aims at predicting the prices of housing given the various predicto
 You need a Python , Jupiter notebook
 
 ## Technologies Used
-Google collaboratory
-Python
-Pandas Libraries
-Numpy Libraries
-Matploplib
-Seaborn Libraries
-Sklearn Libraries
+Google collaboratory,
+Python 
+and various libraries
+
